@@ -25,6 +25,11 @@ board = ...
 ...
 ```
 
+## Manually install
+
+The platform can be installed manually using `pio platform install https://github.com/richardclli/platform-gd32v.git` on [the CLI](https://docs.platformio.org/en/latest/integration/ide/vscode.html#platformio-core-cli). 
+
 # Configuration
 
 Please navigate to [documentation](http://docs.platformio.org/page/platforms/gd32v.html).
+
