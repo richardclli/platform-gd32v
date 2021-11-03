@@ -43,8 +43,8 @@
         "framework-gd32vf103-sdk": {
             "optional": true,
             "type": "framework",
-            "owner": "platformio",
-            "version": "~1.0.0"
+            "owner": "richardclli",
+            "version": "https://github.com/richardclli/framework-gd32vf103-sdk.git"
         },
         "framework-arduino-gd32v": {
             "optional":true,
